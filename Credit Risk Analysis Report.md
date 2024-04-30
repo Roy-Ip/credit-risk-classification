@@ -9,7 +9,7 @@ The dataset includes the following features: loan size, interest rate, borrower 
 
 
 ### Variable Information:
-The loan status is the variable that is being predicted using this model. It is showing 18759 numbers of approved loans and 625 numbers of denied loans.
+The loan status is the variable that is being predicted using this model. It is showing 18759 numbers of healthy loans and 625 numbers of high-risk loans.
 
 
 ### Machine Learning Process:
@@ -33,17 +33,17 @@ Logistic Regression Model was used for predicting loan status based on the provi
 Machine Learning Model - Logistic Regression
 - Accuracy: 0.99
 - Precision: 
-    - Class 0 (approved loans) - 1.00
-    - Class 1 (denied loans) - 0.87
+    - Class 0 (healthy loans) - 1.00
+    - Class 1 (high-risk loans) - 0.87
 - Recall: 
-    - Class 0 (approved loans) - 1.00
-    - Class 1 (denied loans) - 0.89
+    - Class 0 (healthy loans) - 1.00
+    - Class 1 (high-risk loans) - 0.89
 - F1-Score
-    - Class 0 (approved loans) - 1.00
-    - Class 1 (denied loans) - 0.88
+    - Class 0 (healthy loans) - 1.00
+    - Class 1 (high-risk loans) - 0.88
 
 <br />
 
 ## Summary
-The performance of Logistic Regression Model is excellent with the accuracy of 0.99, which means there is a high accuracy in prediction. The Precision and Recall scores are high, which represent 1.00 and 1.00 for approved loans; 0.87 and 0.89 for denied loans respectively. Besides, the F1-score is high as well, with 1.00 for the approved loans and 0.88 for denied loans. This model is particular well in identifying approved loans, because it scores 1.00 in Precision, Recall and F1-Score. This model is recommended for predicting the loan status based on the overall high scores in every aspect. 
+The performance of Logistic Regression Model is excellent with the accuracy of 0.99, which means there is a high accuracy in prediction. The Precision and Recall scores are high, which represent 1.00 and 1.00 for healthy loans; 0.87 and 0.89 for high-risk loans respectively. Besides, the F1-score is high as well, with 1.00 for the healthy loans and 0.88 for high-risk loans. This model is particular well in identifying healthy loans, because it scores 1.00 in Precision, Recall and F1-Score. This model is recommended for predicting the loan status based on the overall high scores in every aspect. 
 
