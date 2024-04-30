@@ -9,7 +9,7 @@ The dataset includes the following features: loan size, interest rate, borrower 
 
 
 ### Variable Information:
-The loan status is the variable that is being predicted using this model. It is showing 18759 numbers of healthy loans and 625 numbers of high-risk loans.
+The loan status is the variable that is being predicted using this model. It is showing 18,759 numbers of healthy loans and 625 numbers of high-risk loans.
 
 
 ### Machine Learning Process:
