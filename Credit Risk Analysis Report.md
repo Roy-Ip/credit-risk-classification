@@ -24,7 +24,7 @@ Creating a Logistic Regression Model: Using machine learning algorithms such as 
 Evaluating Performance: Evaluating model performance using confusion matrix, accuracy, precision, recall, and F1-score.
 
 
-### Methods Used: 
+### Method Used: 
 Logistic Regression Model was used for predicting loan status based on the provided financial features.
 
 <br />
